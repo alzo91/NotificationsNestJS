@@ -16,7 +16,7 @@ export class NotificationRepository {
       data: {
         id,
         category: data.category,
-        content: data.category,
+        content: data.content,
         recipientId: data.recipientId,
       },
     });
